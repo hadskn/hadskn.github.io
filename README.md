@@ -1,3 +1,10 @@
-## My blog link address
+Hello world
+===
+
+**My blog link address**
 ### https://hadskn.github.io
-*Hello friend, welcome to my blog*
+---
+_Hello friend, welcome to my blog_
+-谢谢
+-你好
+===
