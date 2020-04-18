@@ -8,7 +8,7 @@ Hello world
 
 _Hello friend, welcome to my blog_
 
--谢谢
--你好
+- 谢谢
+- 你好
 
 ===
